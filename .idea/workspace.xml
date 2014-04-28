@@ -1,8 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="137507ee-338b-4e45-bb32-be66672a3f31" name="Default" comment="ide 관련 폴더 삭제">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/restapp.iml" afterPath="" />
+    <list default="true" id="137507ee-338b-4e45-bb32-be66672a3f31" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/data.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/devfun/bookstore/common/config/AppConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/devfun/bookstore/common/domain/Book.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/devfun/bookstore/common/mapper/BookMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/devfun/bookstore/common/mapper/BookMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/devfun/bookstore/rest/config/RestAppConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/logback.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/schema.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/restapp.war" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/restapp/WEB-INF/classes/devfun/bookstore/common/config/AppConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/restapp/WEB-INF/classes/devfun/bookstore/common/domain/Book.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/restapp/WEB-INF/classes/devfun/bookstore/common/mapper/BookMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/restapp/WEB-INF/classes/devfun/bookstore/common/mapper/BookMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/restapp/WEB-INF/classes/devfun/bookstore/rest/config/RestAppConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/restapp/WEB-INF/classes/logback.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/restapp/WEB-INF/classes/schema.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/restapp/WEB-INF/classes/test-data.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/restapp/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/restapp/WEB-INF/lib/hsqldb-2.3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/restapp/WEB-INF/lib/jcl-over-slf4j-1.7.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/restapp/WEB-INF/lib/logback-classic-1.0.13.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/restapp/WEB-INF/lib/logback-core-1.0.13.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/restapp/WEB-INF/lib/mybatis-3.2.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/restapp/WEB-INF/lib/mybatis-spring-1.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/restapp/WEB-INF/lib/pojomatic-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/restapp/WEB-INF/lib/slf4j-api-1.7.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/restapp/WEB-INF/lib/spring-aop-3.2.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/restapp/WEB-INF/lib/spring-beans-3.2.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/restapp/WEB-INF/lib/spring-context-3.2.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/restapp/WEB-INF/lib/spring-core-3.2.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/restapp/WEB-INF/lib/spring-expression-3.2.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/restapp/WEB-INF/lib/spring-jdbc-3.2.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/restapp/WEB-INF/lib/spring-tx-3.2.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/restapp/WEB-INF/lib/spring-web-3.2.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/restapp/WEB-INF/lib/spring-webmvc-3.2.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/restapp/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/restapp/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-devfun.bookstore.common.mapper.BookMapperTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/devfun.bookstore.common.mapper.BookMapperTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/devfun/bookstore/common/mapper/BookMapperTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/logback-test.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="restapp.iws" />
@@ -437,7 +482,7 @@
       <workItem from="1398664188271" duration="7758000" />
       <workItem from="1398684538109" duration="1037000" />
       <workItem from="1398685778238" duration="32000" />
-      <workItem from="1398685856789" duration="1196000" />
+      <workItem from="1398685856789" duration="1391000" />
     </task>
     <task id="LOCAL-00001" summary="data.xml -&gt; data.sql&#10;schema.xml -&gt; schema.sql 변경">
       <created>1398686341282</created>
@@ -451,11 +496,15 @@
       <created>1398686831275</created>
       <updated>1398686831275</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ide 관련 파일 삭제">
+      <created>1398687085062</created>
+      <updated>1398687085062</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10023000" />
+    <option name="totallyTimeSpent" value="10218000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -559,7 +608,8 @@
     </option>
     <MESSAGE value="data.xml -&gt; data.sql&#10;schema.xml -&gt; schema.sql 변경" />
     <MESSAGE value="ide 관련 폴더 삭제" />
-    <option name="LAST_COMMIT_MESSAGE" value="ide 관련 폴더 삭제" />
+    <MESSAGE value="ide 관련 파일 삭제" />
+    <option name="LAST_COMMIT_MESSAGE" value="ide 관련 파일 삭제" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
