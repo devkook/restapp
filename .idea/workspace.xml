@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="137507ee-338b-4e45-bb32-be66672a3f31" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/restapp_war.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/restapp_war_exploded.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_0_13.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_0_13.xml" afterPath="" />
@@ -30,13 +27,8 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_3_2_5_RELEASE.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_3_2_5_RELEASE.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_3_2_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/devfun.bookstore.common.mapper/BookMapperTest.java" afterPath="$PROJECT_DIR$/src/test/java/devfun.bookstore.common.mapper/BookMapperTest.java" />
     </list>
     <ignored path="restapp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -470,17 +462,21 @@
       <workItem from="1398664188271" duration="7758000" />
       <workItem from="1398684538109" duration="1037000" />
       <workItem from="1398685778238" duration="32000" />
-      <workItem from="1398685856789" duration="866000" />
+      <workItem from="1398685856789" duration="951000" />
     </task>
     <task id="LOCAL-00001" summary="data.xml -&gt; data.sql&#10;schema.xml -&gt; schema.sql 변경">
       <created>1398686341282</created>
       <updated>1398686341282</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ide 관련 폴더 삭제">
+      <created>1398686795950</created>
+      <updated>1398686795950</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9693000" />
+    <option name="totallyTimeSpent" value="9778000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -583,7 +579,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="data.xml -&gt; data.sql&#10;schema.xml -&gt; schema.sql 변경" />
-    <option name="LAST_COMMIT_MESSAGE" value="data.xml -&gt; data.sql&#10;schema.xml -&gt; schema.sql 변경" />
+    <MESSAGE value="ide 관련 폴더 삭제" />
+    <option name="LAST_COMMIT_MESSAGE" value="ide 관련 폴더 삭제" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
